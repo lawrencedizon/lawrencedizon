@@ -22,6 +22,5 @@
  # 📖 Contact Me
 
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lawrencedizon/)
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ldizon8)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:cse.lawrencedan@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20on%20GitHub.)
 <br>
