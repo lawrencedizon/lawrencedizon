@@ -2,10 +2,6 @@
 
 <img src="https://github.com/lawrencedizon/lawrencedizon/blob/main/images/hero.png" alt="Lawrence Banner" width="100%" />
 
-# Lawrence
-
-### Backend Engineer
-
 I enjoy understanding complex systems and building software that makes them simpler.
 
 **Software Architecture · Distributed Systems · Artificial Intelligence**
