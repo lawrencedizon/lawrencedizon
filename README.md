@@ -57,12 +57,3 @@ AI-powered platform exploring clarity, organization, and decision-making through
 <p align="center">
 <img src="https://skillicons.dev/icons?i=ts,python,nodejs,postgres,docker,redis,aws,git,linux" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lawrencedizon&show_icons=true&hide_border=true&theme=github_dark" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawrencedizon&layout=compact&hide_border=true&theme=github_dark" />
-</p>
