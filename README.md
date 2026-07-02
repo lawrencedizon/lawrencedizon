@@ -9,9 +9,13 @@
   <strong>Backend Engineer</strong>
 </p>
 
-<p align="center">
-  <em>Designing software that's simple to build, simple to understand, and built to last.</em>
-</p>
+<div align="center">
+
+### Designing software that's
+
+**simple to build** • **simple to understand** • **built to last**
+
+</div>
 
 **Software Architecture · Distributed Systems · Artificial Intelligence**
 
