@@ -10,8 +10,6 @@
 
 </div>
 
----
-
 ## 🚀 Featured Projects
 
 <table>
