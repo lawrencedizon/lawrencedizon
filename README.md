@@ -2,23 +2,13 @@
 
 <img src="https://raw.githubusercontent.com/lawrencedizon/lawrencedizon/main/images/hero.png" width="100%" alt="Banner" />
 
-**⚙️ Easy to Build**  •  **🧠 Simple to Understand**  •  **🛡️ Built to Last**
+<!-- ⚙️ Easy to Build**  •  **🧠 Simple to Understand**  •  **🛡️ Built to Last** -->
 
-Building scalable backend systems and AI-powered products.
+<!-- Building scalable backend systems and AI-powered products. -->
 
-`Software Architecture` • `Distributed Systems` • `Artificial Intelligence`
-
-<a href="https://www.linkedin.com/in/lawrencedizon/">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="32" />
-</a>
-&nbsp;
-<a href="mailto:cse.lawrencedan@gmail.com">
-  <img src="https://img.icons8.com/fluency/48/new-post.png" height="32" />
-</a>
+<!-- `Software Architecture` • `Distributed Systems` • `Artificial Intelligence` -->
 
 </div>
-
----
 
 ## 🚀 Featured Projects
 
