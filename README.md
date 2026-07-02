@@ -29,7 +29,7 @@ Vehicle diagnostics platform focused on reliable backend systems, API design, an
 
 <td width="50%" valign="top">
 
-<img src="[images/tribe-preview.png](https://github.com/lawrencedizon/lawrencedizon/blob/main/images/tribe.png)" width="100%" alt="Tribe"/>
+<img src="https://github.com/lawrencedizon/lawrencedizon/blob/main/images/tribe.png" width="100%" alt="Tribe"/>
 
 ### 🤖 Tribe
 
