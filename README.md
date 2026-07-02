@@ -3,7 +3,15 @@
 <img src="https://github.com/lawrencedizon/lawrencedizon/blob/main/images/hero.png" alt="Lawrence Banner" width="100%" />
 
 
-Designing software that's simple to build, simple to understand, and built to last.
+<h1 align="center">Lawrence</h1>
+
+<p align="center">
+  <strong>Backend Engineer</strong>
+</p>
+
+<p align="center">
+  <em>Designing software that's simple to build, simple to understand, and built to last.</em>
+</p>
 
 **Software Architecture · Distributed Systems · Artificial Intelligence**
 
