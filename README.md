@@ -1,24 +1,22 @@
 # Lawrence
 
-```console
-$ whoami
 Backend Engineer
 
-$ approach
-Understand complex systems. Build simple software.
-```
+I enjoy understanding complex systems and building software that makes them simpler.
+
+Interested in software architecture, distributed systems, and artificial intelligence.
 
 ---
 
-### 🚀 Projects
+## 🚀 Projects
 
-🩺 **CarDoc**
+### CarDoc
 
-Vehicle diagnostics platform focused on backend architecture, API design, and scalable systems.
+Vehicle diagnostics platform focused on reliable backend architecture and API design.
 
 → Project Overview
 
-🤖 **Tribe**
+### Tribe
 
 AI-powered platform exploring how software can help people organize information, gain clarity, and make better decisions.
 
