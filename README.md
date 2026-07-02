@@ -1,23 +1,56 @@
-# Lawrence
+<h1 align="center">Lawrence</h1>
 
-Backend Engineer
+<p align="center">
+  <strong>Backend Engineer</strong>
+</p>
 
-I enjoy understanding complex systems and building software that makes them simpler.
+<p align="center">
+  I enjoy understanding complex systems and building software that makes them simpler.
+</p>
 
-Interested in software architecture, distributed systems, and artificial intelligence.
+<p align="center">
+  Software Architecture · Distributed Systems · Artificial Intelligence
+</p>
+
+<br />
 
 ---
 
-## 🚀 Projects
+<br />
 
-### CarDoc
+<h2 align="center">Featured Projects</h2>
 
-Vehicle diagnostics platform focused on reliable backend architecture and API design.
+<br />
 
-→ Project Overview
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🩺 CarDoc</h3>
+      <p>
+        A vehicle diagnostics platform focused on making vehicle data easier to understand through reliable backend systems, thoughtful API design, and scalable architecture.
+      </p>
+      <p>
+        <a href="YOUR_CARDOC_LINK_HERE"><strong>View Project Overview →</strong></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 Tribe</h3>
+      <p>
+        An AI-powered platform exploring how software can help people organize information, gain clarity, and make better decisions through personalized experiences.
+      </p>
+      <p>
+        <a href="YOUR_TRIBE_LINK_HERE"><strong>View Project Overview →</strong></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-### Tribe
+<br />
 
-AI-powered platform exploring how software can help people organize information, gain clarity, and make better decisions.
+---
 
-→ Project Overview
+<br />
+
+<p align="center">
+  Building reliable software with clarity, restraint, and long-term thinking.
+</p>
