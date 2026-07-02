@@ -1,27 +1,21 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/lawrencedizon/lawrencedizon/main/images/hero.png" alt="Lawrence Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/lawrencedizon/lawrencedizon/main/images/hero.png" width="100%" alt="Banner" />
 
-<br><br>
-
-### ⚙️ Easy to Build   •   🧠 Simple to Understand   •   🛡️ Built to Last
-
-<br>
+**⚙️ Easy to Build**  •  **🧠 Simple to Understand**  •  **🛡️ Built to Last**
 
 `Software Architecture` • `Distributed Systems` • `Artificial Intelligence`
 
-<br><br>
-
 <a href="https://github.com/lawrencedizon">
-  <img src="https://skillicons.dev/icons?i=github" height="36" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=github" height="32" />
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://www.linkedin.com/in/lawrencedizon/">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="36" alt="LinkedIn" />
+  <img src="https://skillicons.dev/icons?i=linkedin" height="32" />
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="mailto:YOUR_EMAIL">
-  <img src="https://img.icons8.com/fluency/48/new-post.png" height="36" alt="Email" />
+  <img src="https://img.icons8.com/fluency/48/new-post.png" height="32" />
 </a>
 
 </div>
@@ -35,11 +29,11 @@
 
 <td width="50%" valign="top">
 
-<img src="images/cardoc-preview.png" alt="CarDoc Preview" width="100%" />
+<img src="images/cardoc-preview.png" width="100%" alt="CarDoc"/>
 
 ### 🩺 CarDoc
 
-Vehicle diagnostics platform focused on making vehicle data easier to understand through reliable backend systems, thoughtful API design, and scalable architecture.
+Vehicle diagnostics platform focused on reliable backend systems, API design, and scalable architecture.
 
 <a href="YOUR_CARDOC_LINK"><strong>View Project →</strong></a>
 
@@ -47,11 +41,11 @@ Vehicle diagnostics platform focused on making vehicle data easier to understand
 
 <td width="50%" valign="top">
 
-<img src="images/tribe-preview.png" alt="Tribe Preview" width="100%" />
+<img src="images/tribe-preview.png" width="100%" alt="Tribe"/>
 
 ### 🤖 Tribe
 
-An AI-powered platform exploring how software can help people organize information, gain clarity, and make better decisions through personalized experiences.
+AI-powered platform exploring clarity, organization, and decision-making through personalized software.
 
 <a href="YOUR_TRIBE_LINK"><strong>View Project →</strong></a>
 
@@ -73,6 +67,6 @@ An AI-powered platform exploring how software can help people organize informati
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lawrencedizon&show_icons=true&hide_border=true&theme=github_dark" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawrencedizon&layout=compact&hide_border=true&theme=github_dark" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=lawrencedizon&show_icons=true&hide_border=true&theme=github_dark" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawrencedizon&layout=compact&hide_border=true&theme=github_dark" />
 </p>
