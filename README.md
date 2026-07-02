@@ -3,24 +3,41 @@
 <img src="https://github.com/lawrencedizon/lawrencedizon/blob/main/images/hero.png" alt="Lawrence Banner" width="100%" />
 
 
-<h1 align="center">Lawrence</h1>
-
-<p align="center">
-  <strong>Backend Engineer</strong>
-</p>
-
 <div align="center">
 
-### Designing software that's
+<table>
+<tr>
+<td align="center" width="33%">
 
-**simple to build** • **simple to understand** • **built to last**
+### ⚙️
+
+**Easy to Build**
+
+</td>
+
+<td align="center" width="33%">
+
+### 🧠
+
+**Simple to Understand**
+
+</td>
+
+<td align="center" width="33%">
+
+### 🛡️
+
+**Built to Last**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+`Software Architecture` • `Distributed Systems` • `Artificial Intelligence`
 
 </div>
-
-**Software Architecture · Distributed Systems · Artificial Intelligence**
-
-<br />
-
 <a href="https://github.com/YOUR_USERNAME">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
