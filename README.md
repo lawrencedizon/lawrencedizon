@@ -4,6 +4,8 @@
 
 **⚙️ Easy to Build**  •  **🧠 Simple to Understand**  •  **🛡️ Built to Last**
 
+Building scalable backend systems and AI-powered products.
+
 `Software Architecture` • `Distributed Systems` • `Artificial Intelligence`
 
 <a href="https://www.linkedin.com/in/lawrencedizon/">
