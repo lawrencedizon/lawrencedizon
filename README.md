@@ -1,9 +1,14 @@
-# <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">&nbsp;Hello World, my name is Lawrence! 
-- 🎓 I recently graduated with a B.S. in Computer Science & Engineering from University of California, Irvine
-- 🧑🏻‍💻 I enjoy writing iOS apps. I created <em>JustWatchIt</em> and <em>DailyBreaker</em> (The repositories can be found below 👇🏻)
-- 💻 Lately, I've been working towards expanding my knowledge in Frontend development
-- 💬 Ask me about iOS App development and web development
-- ⚡ Fun fact: I love fitness and I breakdance
+# Lawrence
+
+> *Building systems for software. Building systems for life.*
+
+I believe every complex problem becomes simpler when you understand the principles beneath it.
+
+That philosophy guides how I build software, study engineering, and approach lifelong learning.
+
+**Backend Engineering • System Design • AI**
+
+> *Action creates clarity.*
 
 
 
