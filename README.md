@@ -2,36 +2,11 @@
 
 <img src="https://github.com/lawrencedizon/lawrencedizon/blob/main/images/hero.png" alt="Lawrence Banner" width="100%" />
 
-
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%">
+### ⚙️ Easy to Build &nbsp;&nbsp;•&nbsp;&nbsp; 🧠 Simple to Understand &nbsp;&nbsp;•&nbsp;&nbsp; 🛡️ Built to Last
 
-### ⚙️
-
-**Easy to Build**
-
-</td>
-
-<td align="center" width="33%">
-
-### 🧠
-
-**Simple to Understand**
-
-</td>
-
-<td align="center" width="33%">
-
-### 🛡️
-
-**Built to Last**
-
-</td>
-</tr>
-</table>
+</div>
 
 <br>
 
