@@ -2,8 +2,8 @@
 
 <img src="https://github.com/lawrencedizon/lawrencedizon/blob/main/images/hero.png" alt="Lawrence Banner" width="100%" />
 
-<br />
-I enjoy understanding complex systems and building software that makes them simpler.
+
+Designing software that's simple to build, simple to understand, and built to last.
 
 **Software Architecture · Distributed Systems · Artificial Intelligence**
 
