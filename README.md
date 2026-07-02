@@ -2,26 +2,24 @@
 
 <img src="https://raw.githubusercontent.com/lawrencedizon/lawrencedizon/main/images/hero.png" alt="Lawrence Banner" width="100%" />
 
-<br>
+<br><br>
 
-### ⚙️ Easy to Build   •   🧠 Simple to Understand   •   🛡️ Built to Last
+<strong>Easy to Build</strong>
+  ·   <strong>Simple to Understand</strong>
+  ·   <strong>Built to Last</strong>
 
-<br>
+<br><br>
 
-`Software Architecture` • `Distributed Systems` • `Artificial Intelligence`
+<code>Software Architecture</code> • <code>Distributed Systems</code> • <code>Artificial Intelligence</code>
 
-<br>
+<br><br>
 
 <p>
-  <a href="https://github.com/lawrencedizon">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/lawrencedizon/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="https://github.com/lawrencedizon"><img src="https://skillicons.dev/icons?i=github" height="34" alt="GitHub"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/lawrencedizon/"><img src="https://skillicons.dev/icons?i=linkedin" height="34" alt="LinkedIn"></a>
+  &nbsp;&nbsp;
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.icons8.com/fluency/48/new-post.png" height="34" alt="Email"></a>
 </p>
 
 </div>
@@ -50,7 +48,7 @@ Vehicle diagnostics platform focused on making vehicle data easier to understand
 
 ### 🤖 Tribe
 
-An AI-powered platform exploring how software can help people organize information, gain clarity, and make better decisions through personalized experiences.
+AI-powered platform exploring how software can help people organize information, gain clarity, and make better decisions through personalized experiences.
 
 <a href="YOUR_TRIBE_LINK"><strong>View Project →</strong></a>
 
@@ -63,7 +61,7 @@ An AI-powered platform exploring how software can help people organize informati
 ## 🛠 Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,python,nodejs,postgres,docker,redis,aws,git,linux" />
+  <img src="https://skillicons.dev/icons?i=ts,python,nodejs,postgres,docker,redis,aws,git,linux" alt="Technologies" />
 </p>
 
 ---
@@ -71,12 +69,12 @@ An AI-powered platform exploring how software can help people organize informati
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lawrencedizon&show_icons=true&hide_border=true&theme=github_dark" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawrencedizon&layout=compact&hide_border=true&theme=github_dark" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lawrencedizon&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lawrencedizon&layout=compact&hide_border=true&theme=github_dark" alt="Top Languages" />
 </p>
 
 ---
 
 <p align="center">
-Building reliable software with clarity, restraint, and long-term thinking.
+  Building reliable software with clarity, restraint, and long-term thinking.
 </p>
