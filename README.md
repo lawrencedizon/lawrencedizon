@@ -6,8 +6,6 @@
 
 ### ⚙️ Easy to Build &nbsp;&nbsp;•&nbsp;&nbsp; 🧠 Simple to Understand &nbsp;&nbsp;•&nbsp;&nbsp; 🛡️ Built to Last
 
-</div>
-
 <br>
 
 `Software Architecture` • `Distributed Systems` • `Artificial Intelligence`
@@ -24,7 +22,7 @@
 </a>
 
 </div>
-
+</div>
 ---
 
 ## 🚀 Featured Projects
