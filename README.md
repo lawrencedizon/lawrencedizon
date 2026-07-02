@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/lawrencedizon/lawrencedizon/main/images/hero.png" width="100%" alt="Banner" />
 
-<!-- ⚙️ Easy to Build**  •  **🧠 Simple to Understand**  •  **🛡️ Built to Last** --> **
+<!-- ⚙️ Easy to Build**  •  **🧠 Simple to Understand**  •  **🛡️ Built to Last** -->
 
 <!-- Building scalable backend systems and AI-powered products. -->
 
