@@ -6,18 +6,19 @@
 
 `Software Architecture` • `Distributed Systems` • `Artificial Intelligence`
 
-<a href="https://github.com/lawrencedizon">
-  <img src="https://skillicons.dev/icons?i=github" height="32" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/lawrencedizon/">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="32" />
-</a>
-&nbsp;
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.icons8.com/fluency/48/new-post.png" height="32" />
-</a>
-
+<p align="center">
+  <a href="https://github.com/lawrencedizon">
+    <img src="https://cdn.simpleicons.org/github/white" alt="GitHub" height="28">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/lawrencedizon/">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="28">
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" height="28">
+  </a>
+</p>
 </div>
 
 ---
