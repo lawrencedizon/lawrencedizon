@@ -6,26 +6,20 @@ Backend Engineer
 
 $ approach
 Understand complex systems. Build simple software.
-
-$ focus
-Software Architecture
-Distributed Systems
-Artificial Intelligence
 ```
 
-I enjoy building reliable software and solving problems from first principles.
-
 ---
 
-## 🚀 Projects
+### 🚀 Projects
 
-### CarDoc
+🩺 **CarDoc**
 
-A vehicle diagnostics platform focused on making vehicle data easier to understand through reliable backend systems, thoughtful API design, and scalable architecture.
+Vehicle diagnostics platform focused on backend architecture, API design, and scalable systems.
 
----
+→ Project Overview
 
-### Tribe
+🤖 **Tribe**
 
-An AI-powered platform exploring how software can help people organize information, gain clarity, and make better decisions through personalized experiences.
+AI-powered platform exploring how software can help people organize information, gain clarity, and make better decisions.
 
+→ Project Overview
